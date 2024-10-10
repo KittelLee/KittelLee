@@ -8,6 +8,8 @@ I am a developer who enjoys the process of acquiring and learning through challe
   - 2023.03 ~ 2023.12 : University external club like a lion
   - 2023.07 ~ 2024.01 : Fastcampus x Yanolja Frontend Tech School
   - 2024.06 ~ 2024.06 : Wanted Pre-Onboarding FE Challenge
+- Experience
+  - 2024.09 ~ present : CoSignOn, GyeonggiDo - FrontEnd Developer(Researcher)
 
 ## 📬 Contact
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leejin7900@gmail.com)
