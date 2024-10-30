@@ -9,7 +9,7 @@ I am a developer who enjoys the process of acquiring and learning through challe
   - 2023.07 ~ 2024.01 : Fastcampus x Yanolja Frontend Tech School
   - 2024.06 ~ 2024.06 : Wanted Pre-Onboarding FE Challenge
 - Experience
-  - 2024.04 LimeFriends
+  - 2024.04 ~ 2024.05 : LimeFriends, Seoul - FrontEnd Developer(Researcher)
   - 2024.09 ~ present : CoSignOn, GyeonggiDo - FrontEnd Developer(Researcher)
 
 ## 📬 Contact
