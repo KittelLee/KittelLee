@@ -1,4 +1,4 @@
-# Hi 👋, I'm JinUkLee
+# Hi 👋, I'm JinUkLee❗️
 I am a developer who enjoys the process of acquiring and learning through challenging goals.
 
 ## 👨🏻‍💻 About me
