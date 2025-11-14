@@ -21,6 +21,11 @@ I am a enginner who enjoys the process of acquiring and learning through challen
 ### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittellee&langs_count=12&layout=compact&theme=onedark" alt="Top Langs" />
 
+### Enginner Skill
+<p align="left">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=yellow" />
+</p>
+
 ### Basic
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
