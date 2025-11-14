@@ -23,7 +23,7 @@ I am a enginner who enjoys the process of acquiring and learning through challen
 
 ### Enginner Skill
 <p align="left">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ### Basic
